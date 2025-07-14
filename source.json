@@ -13,7 +13,7 @@
             "downloadURL": "https://github.com/ppy/osu/releases/download/2024.625.2/osu.iOS.ipa",
             "iconURL": "https://assets.ppy.sh/logo-with-background.png",
             "tintColor": "ff66aa",
-            "size": 160432128
+            "size": "160432128"
         }
     ]
 }
