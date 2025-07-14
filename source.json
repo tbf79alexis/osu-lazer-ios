@@ -1,0 +1,17 @@
+{
+    "name": "osu!lazer",
+    "identifier": "com.osulazer.ios",
+    "apps": [
+        {
+            "name": "osu!lazer",
+            "bundleIdentifier": "sh.ppy.osu",
+            "developerName": "ppy",
+            "version": "2024.625.2",
+            "versionDate": "2024-06-25T16:39:00Z",
+            "versionDescription": "outdated, but latest ipa available",
+            "downloadURL": "https://github.com/ppy/osu/releases/download/2024.625.2/osu.iOS.ipa",
+            "iconURL": "https://assets.ppy.sh/logo-with-background.png",
+            "tintColor": "ff66aa"
+        }
+    ]
+}
