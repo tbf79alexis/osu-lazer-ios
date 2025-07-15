@@ -1,19 +1,44 @@
 {
     "name": "osu!lazer",
-    "identifier": "com.osulazer.ios",
+    "subtitle": "osu!lazer iOS source",
+    "description": "outdated, most recent official ipa build",
+    "iconURL": "https://assets.ppy.sh/logo-with-background.png",
+    "headerURL": "https://assets.ppy.sh/logo-with-background.png",
+    "website": "https://osu.ppy.sh",
+    "tintColor": "#ff66aa",
+    "featuredApps": [
+        "sh.ppy.osu"
+    ],
     "apps": [
         {
             "name": "osu!lazer",
             "bundleIdentifier": "sh.ppy.osu",
+            "marketplaceID": "0",
             "developerName": "ppy",
-            "version": "2024.625.2",
-            "versionDate": "2024-06-25T16:39:00Z",
-            "versionDescription": "outdated, but latest ipa available",
-            "localizedDescription": "osu!lazer for iOS",
-            "downloadURL": "https://github.com/ppy/osu/releases/download/2024.625.2/osu.iOS.ipa",
+            "subtitle": "osu!lazer iOS source",
+            "localizedDescription": "outdated, most recent official ipa build",
             "iconURL": "https://assets.ppy.sh/logo-with-background.png",
-            "tintColor": "ff66aa",
-            "size": "160432128"
+            "tintColor": "#ff66aa",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/43073074/86949458-f299d880-c14e-11ea-9af8-c9bc867c414c.png",
+                "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fui-scaling-is-cool-and-all-but-if-i-can-barely-see-the-v0-exrs1jpc92jc1.jpg%3Fwidth%3D2400%26format%3Dpjpg%26auto%3Dwebp%26s%3Df105d5ba2af8e565bceb6feb5d32f8c9ea81ff70"
+            ],
+            "versions": [
+                {
+                    "version": "2024.625.2",
+                    "buildVersion": "20240625",
+                    "date": "2024-06-25T00:00:00Z",
+                    "size": 160432128,
+                    "downloadURL": "https://github.com/ppy/osu/releases/download/2024.625.2/osu.iOS.ipa",
+                    "localizedDescription": "Latest available osu!lazer IPA for iOS.",
+                    "minOSVersion": "13.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {}
+            }
         }
-    ]
+    ],
+    "news": []
 }
