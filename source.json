@@ -1,7 +1,7 @@
 {
     "name": "osu!lazer",
     "subtitle": "osu!lazer iOS source",
-    "description": "outdated, most recent official ipa build",
+    "description": "Unofficial AltStore source for the latest osu!lazer IPA on iOS.",
     "iconURL": "https://assets.ppy.sh/logo-with-background.png",
     "headerURL": "https://assets.ppy.sh/logo-with-background.png",
     "website": "https://osu.ppy.sh",
@@ -13,24 +13,23 @@
         {
             "name": "osu!lazer",
             "bundleIdentifier": "sh.ppy.osu",
-            "marketplaceID": "0",
             "developerName": "ppy",
-            "subtitle": "osu!lazer iOS source",
-            "localizedDescription": "outdated, most recent official ipa build",
+            "subtitle": "Latest official osu!lazer IPA",
+            "localizedDescription": "The latest available osu!lazer build for iOS, directly from the official GitHub releases.",
             "iconURL": "https://assets.ppy.sh/logo-with-background.png",
             "tintColor": "#ff66aa",
             "screenshots": [
-                "https://user-images.githubusercontent.com/43073074/86949458-f299d880-c14e-11ea-9af8-c9bc867c414c.png",
-                "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fui-scaling-is-cool-and-all-but-if-i-can-barely-see-the-v0-exrs1jpc92jc1.jpg%3Fwidth%3D2400%26format%3Dpjpg%26auto%3Dwebp%26s%3Df105d5ba2af8e565bceb6feb5d32f8c9ea81ff70"
+                "https://i.redd.it/ui-scaling-is-cool-and-all-but-if-i-can-barely-see-the-v0-exrs1jpc92jc1.jpg",
+                "https://user-images.githubusercontent.com/43073074/86949458-f299d880-c14e-11ea-9af8-c9bc867c414c.png"
             ],
             "versions": [
                 {
-                    "version": "2024.625.2",
-                    "buildVersion": "20240625",
-                    "date": "2024-06-25T00:00:00Z",
+                    "version": "2025.418.0",
+                    "buildVersion": "20250418",
+                    "date": "2025-04-18T00:00:00Z",
                     "size": 160432128,
-                    "downloadURL": "https://dl.dropboxusercontent.com/scl/fi/f6c5a4pndmgh9l6rgghpj/osu.iOS.ipa",
-                    "localizedDescription": "Latest available osu!lazer IPA for iOS.",
+                    "downloadURL": "https://github.com/ppy/osu/releases/download/2025.418.0/osu.iOS.ipa",
+                    "localizedDescription": "Latest official osu!lazer IPA from ppy's GitHub releases.",
                     "minOSVersion": "13.0"
                 }
             ],
