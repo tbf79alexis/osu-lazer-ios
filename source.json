@@ -7,12 +7,12 @@
     "website": "https://osu.ppy.sh",
     "tintColor": "#ff66aa",
     "featuredApps": [
-        "sh.ppy.osu"
+        "sh.ppy.osulazer"
     ],
     "apps": [
         {
             "name": "osu!lazer",
-            "bundleIdentifier": "sh.ppy.osu",
+            "bundleIdentifier": "sh.ppy.osulazer",
             "developerName": "ppy",
             "subtitle": "Latest official osu!lazer IPA",
             "localizedDescription": "The latest available osu!lazer build for iOS, directly from the official GitHub releases.",
