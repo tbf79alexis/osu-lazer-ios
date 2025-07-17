@@ -1,75 +1,45 @@
-
-"patreonURL": 
-"https://patreon.com/altstudio",
-"tintColor": 
-"#6156e2",
-"featuredApps": 
-[
-],
-"apps": 
-[
 {
-"name": 
-"osu!",
-"bundleIdentifier": 
-"sh.ppy.osulazer",
-"marketplaceID": 
-"",
-"developerName": 
-"ppy",
-"subtitle": 
-"",
-"localizedDescription": 
-"most up to date version found",
-"iconURL": 
-"https://i.imgur.com/o19PN3W.png",
-"tintColor": 
-"#f15ca4",
-"category": 
-"games",
-"screenshots": 
-[
-],
-"versions": 
-[
-{
-"downloadURL": 
-"https://github.com/ppy/osu/releases/download/2025.418.0/osu.iOS.ipa",
-"size": 
-194700000,
-"version": 
-"1.0",
-"buildVersion": 
-null,
-"date": 
-"2025-07-17T14:46:00+02:00",
-"localizedDescription": 
-null,
-"minOSVersion": 
-null
-}
-],
-"appPermissions": 
-{
-"entitlements": 
-[
-],
-"privacy": 
-{
-"NSCameraUsageDescription": 
-"We don't use the camera.",
-"NSMicrophoneUsageDescription": 
-"We don't use the microphone.",
-"NSBluetoothAlwaysUsageDescription": 
-"We don't use Bluetooth."
-}
-},
-"patreon": 
-{
-}
-}
-],
-"news": 
-[
-]
+  "name": "My Example Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "osu!",
+      "bundleIdentifier": "sh.ppy.osulazer",
+      "marketplaceID": "",
+      "developerName": "ppy",
+      "subtitle": "",
+      "localizedDescription": "most up to date version found",
+      "iconURL": "https://i.imgur.com/o19PN3W.png",
+      "tintColor": "#f15ca4",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ppy/osu/releases/download/2025.418.0/osu.iOS.ipa",
+          "size": 194700000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2025-07-17T14:46:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "We don't use the camera.",
+          "NSMicrophoneUsageDescription": "We don't use the microphone.",
+          "NSBluetoothAlwaysUsageDescription": "We don't use Bluetooth."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
 }
